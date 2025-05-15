@@ -1,0 +1,19 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "management"
+  },
+  "secret": "",
+  "emailFrom": "admin@gmail.com",
+  "smtpOptions": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}
